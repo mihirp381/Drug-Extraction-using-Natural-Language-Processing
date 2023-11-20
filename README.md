@@ -1,4 +1,4 @@
-# Lantern_Pharma_Submission
+# Lantern_Pharma_Datathon
 
 # Resources Used in the workflow:
 

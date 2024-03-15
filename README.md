@@ -1,5 +1,9 @@
 # Lantern_Pharma_Datathon
 
+# Scope:
+
+> Generating data at scale from lab experiments on a question of interest costs significant money and time. Institutional public repositories of data are helpful, but are not available for many of the questions we’d like to model and answer. This project is about scraping and organizing data for a question of interest, so that a predictive model can then be built for the study.
+ 
 # Resources Used in the workflow:
 
 > 1. Data Extraction : The research articles were extracted using API services available on Pubmed Central and BIORXIV. A total of approximately 24648 papers were attempted to be extracted as JSON from Pubmed Central. All research articles published on BIORXIV since 2014-01-01 till 2023-11-10 were attempted to be extracted as JSON. 
